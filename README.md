@@ -1,5 +1,9 @@
 # object-to-selection-tool-Maya 2022
 
+Opensource and free for commercial Uses. 
+creator : Triuyen Tang
+contacts : triuyentang@gmail.com
+
 Place Object to selection
 all_options : joints, Locators , other Meshes
 
